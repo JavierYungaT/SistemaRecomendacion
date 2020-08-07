@@ -1,14 +1,22 @@
 # SistemaRecomendacion
 
+En este repositorio se encuentra el dataset.
+
+Seguido del documento html.
+
+Y finalmente el cuaderno jupyter donde se desarrollo las pruebas respectivas.
+
 # Algoritmo-keras
   Algoritmo linial de recomendacion basado en redes neuronales con keras.
 
   Dataset Movielens
 
 # Requerimientos
-  Python 3.7
+  - Python 3.7
   
-  A copy of the MovieLens ml 100k dataset, downloaded from [1].
+  - Latex
+  
+  - A copy of the MovieLens ml 100k dataset, downloaded from [1].
 # Dependencias
   pandas
   
