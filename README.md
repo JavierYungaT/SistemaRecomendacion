@@ -4,10 +4,10 @@ En este repositorio se encuentra el dataset.
 
 Seguido del documento html.
 
-Y finalmente el cuaderno jupyter donde se desarrollo las pruebas respectivas.
+Y finalmente el cuaderno jupyter donde se desarrolló las pruebas respectivas.
 
 # Algoritmo-keras
-  Algoritmo linial de recomendacion basado en redes neuronales con keras.
+  Algoritmo linial de recomendación basado en redes neuronales con keras.
 
   Dataset Movielens
 
